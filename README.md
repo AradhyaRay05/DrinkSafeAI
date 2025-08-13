@@ -1,7 +1,5 @@
 # Drinking-Water-Probability
 
----
-
 ## 📬 Contact
 
 <p>
