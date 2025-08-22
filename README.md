@@ -26,22 +26,17 @@ The project leverages **real-world water quality datasets** to train and evaluat
 ### **2️⃣ Model Building**
 Extensively tested and compared a wide range of models to find the best performer:
 
-**Baseline Models:**
 - Logistic Regression  
 - K-Nearest Neighbors (KNN)  
 - Support Vector Machines (SVM)  
 - Naive Bayes  
 - Decision Tree  
-
-**Ensemble & Boosting Models:**
 - Random Forest  
 - AdaBoost  
 - Gradient Boosting  
 - XGBoost  
 - LightGBM  
 - CatBoost  
-
-**Deep Learning:**
 - A **Convolutional Neural Network (CNN)** using TensorFlow/Keras was chosen as the final model for deployment.  
 
 ---
@@ -59,24 +54,13 @@ Extensively tested and compared a wide range of models to find the best performe
 
 🛠 **Tech Stack**
 
-**Programming Language:**  
-- Python – Core programming language.  
-
-**Data Science & ML:**  
 - Pandas / NumPy – For data manipulation and numerical operations.  
 - Scikit-learn – For preprocessing and implementing baseline and ensemble models.  
 - TensorFlow / Keras – For building the final CNN model.  
-- XGBoost – High-performance gradient boosting library.  
-- LightGBM – Fast, distributed, high-performance gradient boosting framework.  
-- CatBoost – Gradient boosting on decision trees with categorical features support.  
-
-**Deployment & Visualization:**  
 - Streamlit – To build and deploy the interactive web application.  
 - Seaborn / Matplotlib – For data visualization.  
-- Joblib – For saving and loading the scaler model.  
-
-
-
+- Joblib – For saving and loading the scaler model.
+  
 ---
 
 ## 📬 Contact
