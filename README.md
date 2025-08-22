@@ -71,8 +71,9 @@ DrinkSafeAI/
 ├── .gitignore                       # Files/directories to exclude from Git tracking
 ├── LICENSE                          # Allows reuse, with attribution, no warranty
 ├── README.md                        # Project documentation
-drinking_water.ipynb             # Jupyter notebook for data processing and model training
 ├── app.py                           # Streamlit app script
+drinking_water.ipynb             # Jupyter notebook for data processing and model training
+
 ├── model.keras                      # Trained deep learning model
 ├── scaler.pkl                       # Pre-fitted StandardScaler object for input normalization
 ├── requirements.txt                 # Project dependencies
