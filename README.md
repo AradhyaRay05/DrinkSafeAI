@@ -2,7 +2,7 @@
 
 ---
 
-## 📌 Project Purpose  
+## 🔍 Project Goal
 DrinkSafeAI is designed to predict the **potability of water** using **machine learning and deep learning models**. It provides a user-friendly interface to input water quality parameters and instantly predicts whether the water is safe to drink. The goal of this project is to combine **data-driven insights** with a simple and interactive deployment platform.
 
 ---
