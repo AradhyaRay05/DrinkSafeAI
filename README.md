@@ -74,7 +74,7 @@ DrinkSafeAI/
 ├── app.py                           # Streamlit app script
 ├── drinking_water.ipynb             # Jupyter notebook for data processing and model training
 ├── model.keras                      # Trained deep learning model
-├── 
+├── requirements.txt                 # Project dependencies
 └── scaler.pkl                       # Pre-fitted StandardScaler object for input normalization
 ```
 ---
