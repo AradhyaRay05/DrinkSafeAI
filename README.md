@@ -75,7 +75,7 @@ DrinkSafeAI/
 ├── model.keras                      # Trained deep learning model
 ├── scaler.pkl                       # Pre-fitted StandardScaler object for input normalization
 ├── requirements.txt                 # Project dependencies
-└── README.md                        # Project documentation
+└── 
 ```
 ---
 
