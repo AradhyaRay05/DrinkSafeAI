@@ -12,6 +12,69 @@ The project leverages **real-world water quality datasets** to train and evaluat
 
 ---
 
+🔄 **Project Workflow**
+
+### **1️⃣ Data Preprocessing & EDA**
+- **Data Inspection:** Loaded the dataset with Pandas for an initial inspection of its structure and types.  
+- **EDA & Visualization:** Visualized feature distributions and correlations using Seaborn and Matplotlib.  
+- **Missing Value Imputation:** Filled null values for `ph`, `Sulfate`, and `Trihalomethanes` using the mean.  
+- **Feature Scaling:** Normalized the feature set using `StandardScaler` to standardize the data range.  
+- **Train-Test Split:** Divided the processed data into training and testing sets for model validation.  
+
+---
+
+### **2️⃣ Model Building**
+Extensively tested and compared a wide range of models to find the best performer:
+
+**Baseline Models:**
+- Logistic Regression  
+- K-Nearest Neighbors (KNN)  
+- Support Vector Machines (SVM)  
+- Naive Bayes  
+- Decision Tree  
+
+**Ensemble & Boosting Models:**
+- Random Forest  
+- AdaBoost  
+- Gradient Boosting  
+- XGBoost  
+- LightGBM  
+- CatBoost  
+
+**Deep Learning:**
+- A **Convolutional Neural Network (CNN)** using TensorFlow/Keras was chosen as the final model for deployment.  
+
+---
+
+### **3️⃣ Evaluation Metrics**
+- **Accuracy** was used as the key metric to evaluate and compare the performance of each model.  
+
+---
+
+### **4️⃣ Deployment**
+- Built a **user-friendly web application** using Streamlit.  
+- Integrated the **best-performing CNN model** (`model.keras`) and the corresponding **scaler** (`scaler.pkl`) for live predictions.  
+
+---
+
+🛠 **Tech Stack**
+
+**Programming Language:**  
+- Python – Core programming language.  
+
+**Data Science & ML:**  
+- Pandas / NumPy – For data manipulation and numerical operations.  
+- Scikit-learn – For preprocessing and implementing baseline and ensemble models.  
+- TensorFlow / Keras – For building the final CNN model.  
+- XGBoost – High-performance gradient boosting library.  
+- LightGBM – Fast, distributed, high-performance gradient boosting framework.  
+- CatBoost – Gradient boosting on decision trees with categorical features support.  
+
+**Deployment & Visualization:**  
+- Streamlit – To build and deploy the interactive web application.  
+- Seaborn / Matplotlib – For data visualization.  
+- Joblib – For saving and loading the scaler model.  
+
 
 
 ---
