@@ -1,4 +1,4 @@
-# Drinking-Water-Probability
+# DrinkSafeAI - AI-powered water safety predictor
 
 ## 📬 Contact
 
