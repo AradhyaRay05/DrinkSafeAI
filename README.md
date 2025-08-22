@@ -12,7 +12,7 @@ The project leverages **real-world water quality datasets** to train and evaluat
 
 ---
 
-🔄 **Project Workflow**
+## 🔄 **Project Workflow**
 
 ### **1️⃣ Data Preprocessing & EDA**
 - **Data Inspection:** Loaded the dataset with Pandas for an initial inspection of its structure and types.  
@@ -52,7 +52,7 @@ Extensively tested and compared a wide range of models to find the best performe
 
 ---
 
-🛠 **Tech Stack**
+## 🛠 **Tech Stack**
 
 - Pandas / NumPy – For data manipulation and numerical operations.  
 - Scikit-learn – For preprocessing and implementing baseline and ensemble models.  
@@ -63,7 +63,8 @@ Extensively tested and compared a wide range of models to find the best performe
   
 ---
 
-✨ **Features**  
+## ✨ **Features**  
+
 - Easy-to-use interactive interface  
 - Real-time water potability prediction  
 - Supports multiple water quality parameters  
@@ -71,14 +72,15 @@ Extensively tested and compared a wide range of models to find the best performe
 
 ---
 
-🚀 **Future Enhancements**  
+## 🚀 **Future Enhancements**  
+
 - Cloud deployment with continuous updates  
 - Addition of more advanced models like XGBoost and CatBoost  
 - Integration with APIs for real-time water quality data  
 - Mobile-friendly interface  
 
 ---
-🧪 **How to Run Locally**
+## 🧪 **How to Run Locally**
 
 ```
 # Clone the repository
