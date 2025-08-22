@@ -78,6 +78,28 @@ Extensively tested and compared a wide range of models to find the best performe
 - Mobile-friendly interface  
 
 ---
+🧪 **How to Run Locally**
+
+```
+# Clone the repository
+git clone https://github.com/yourusername/DrinkSafeAI.git
+
+# Navigate to the project directory
+cd DrinkSafeAI
+
+# Install the dependencies
+pip install -r requirements.txt
+
+# Run the Streamlit app
+streamlit run app.py
+```
+---
+
+## 📄 License
+
+This project is licensed under the [MIT License](LICENSE).
+
+---
 
 ## 📬 Contact
 
