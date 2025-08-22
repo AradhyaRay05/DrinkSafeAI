@@ -1,4 +1,4 @@
-# DrinkSafeAI - AI-powered water safety predictor
+# DrinkSafeAI - AI powered water safety predictor
 
 ## 📬 Contact
 
