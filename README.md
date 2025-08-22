@@ -72,7 +72,7 @@ DrinkSafeAI/
 ├── LICENSE                          # Allows reuse, with attribution, no warranty
 ├── README.md                        # Project documentation
 ├── app.py                           # Streamlit app script
-drinking_water.ipynb             # Jupyter notebook for data processing and model training
+├── drinking_water.ipynb             # Jupyter notebook for data processing and model training
 
 ├── model.keras                      # Trained deep learning model
 ├── scaler.pkl                       # Pre-fitted StandardScaler object for input normalization
