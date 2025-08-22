@@ -63,6 +63,22 @@ Extensively tested and compared a wide range of models to find the best performe
   
 ---
 
+✨ **Features**  
+- Easy-to-use interactive interface  
+- Real-time water potability prediction  
+- Supports multiple water quality parameters  
+- Displays probability score for better insights  
+
+---
+
+🚀 **Future Enhancements**  
+- Cloud deployment with continuous updates  
+- Addition of more advanced models like XGBoost and CatBoost  
+- Integration with APIs for real-time water quality data  
+- Mobile-friendly interface  
+
+---
+
 ## 📬 Contact
 
 <p>
