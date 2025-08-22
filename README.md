@@ -63,6 +63,22 @@ Extensively tested and compared a wide range of models to find the best performe
   
 ---
 
+## 📂 Project Structure  
+```
+DrinkSafeAI/
+├── dataset/
+│   └── water_condition.csv          # Raw dataset used for training
+├── .gitignore                       # Files/directories to exclude from Git tracking
+├── app.py                           # Streamlit app script
+├── drinking_water.ipynb             # Jupyter notebook for data processing and model training
+├── LICENSE                            # Allows reuse, with attribution, no warranty
+├── model.keras                      # Trained deep learning model
+├── scaler.pkl                       # Pre-fitted StandardScaler object for input normalization
+├── requirements.txt                 # Project dependencies
+└── README.md                        # Project documentation
+```
+---
+
 ## ✨ **Features**  
 
 - Easy-to-use interactive interface  
